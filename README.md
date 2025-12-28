@@ -18,4 +18,4 @@ Contact form
 Fast performance with Vite
 
 Tech stack :
-=>React 
+=>React js
